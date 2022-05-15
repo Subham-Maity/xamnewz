@@ -3,10 +3,7 @@
   "totalResults": 38,
   "articles": [
     {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
+      "source": { "id": "reuters", "name": "Reuters" },
       "author": null,
       "title": "Elon Musk says Twitter legal team told him he violated an NDA - Reuters",
       "description": "Elon Musk on Saturday tweeted that Twitter Inc's <a href=\"https://www.reuters.com/companies/TWTR.N\" target=\"_blank\">(TWTR.N)</a> legal team accused him of violating a nondisclosure agreement by revealing that the sample size for the social media platform's ch…",
@@ -16,10 +13,7 @@
       "content": "May 14 (Reuters) - Elon Musk on Saturday tweeted that Twitter Inc's (TWTR.N) legal team accused him of violating a nondisclosure agreement by revealing that the sample size for the social media platf… [+1309 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "CNBC"
-      },
+      "source": { "id": null, "name": "CNBC" },
       "author": "Dan Murphy, Natasha Turak",
       "title": "Oil giant Aramco reports record first quarter as oil prices soar - CNBC",
       "description": "Saudi Arabia's Aramco reported a more-than 80% jump in profit, topping analyst expectations and setting a new record for the company.",
@@ -29,10 +23,7 @@
       "content": "Oil giant Aramco reported a more-than 80% jump in net profit Sunday, topping analyst expectations and setting a new quarterly earnings record since its IPO. \r\nThe Saudi Arabian behemoth said net inco… [+2113 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "CNET"
-      },
+      "source": { "id": null, "name": "CNET" },
       "author": "Eric Mack",
       "title": "Scientists Grow Plants in Moon Soil for the First Time - CNET",
       "description": "Are we looking at future lunar lunches?",
@@ -42,10 +33,7 @@
       "content": "When NASA sends Artemis astronauts back to the surface of the moon in coming years, they should be able to grow their own salad. That's just one ramification of a historic experiment in which scienti… [+2264 chars]"
     },
     {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
+      "source": { "id": "reuters", "name": "Reuters" },
       "author": null,
       "title": "Thousands in U.S. march under 'Ban Off Our Bodies' banner for abortion rights - Reuters",
       "description": "Thousands of abortion rights supporters rallied across the United States on Saturday, angered by the prospect that the Supreme Court may soon overturn the landmark Roe v. Wade decision that legalized abortion nationwide a half century ago.",
@@ -55,10 +43,7 @@
       "content": "WASHINGTON, May 14 (Reuters) - Thousands of abortion rights supporters rallied across the United States on Saturday, angered by the prospect that the Supreme Court may soon overturn the landmark Roe … [+5611 chars]"
     },
     {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
+      "source": { "id": "cnn", "name": "CNN" },
       "author": "Shimon Prokupecz, Artemis Moshtaghian and Christina Maxouris, CNN",
       "title": "What we know about Buffalo supermarket shooting suspect Payton Gendron - CNN",
       "description": "The 18-year-old man who allegedly shot and killed 10 people at a Buffalo supermarket Saturday afternoon was motivated by hate, authorities said.",
@@ -68,10 +53,7 @@
       "content": "(CNN)The 18-year-old man who allegedly shot and killed 10 people at a Buffalo supermarket Saturday afternoon was motivated by hate, authorities said.\r\nThe Tops Friendly Market where the shooting took… [+4450 chars]"
     },
     {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
+      "source": { "id": "cnn", "name": "CNN" },
       "author": "Nectar Gan, Gawon Bae and Helen Regan, CNN",
       "title": "What we know (and don't know) about North Korea's Covid outbreak - CNN",
       "description": "North Korea's first-reported Covid-19 outbreak is the \"greatest turmoil\" to befall the country since its founding more than 70 years ago, according to its leader Kim Jong Un, as the isolated and impoverished nation scrambles to curb the spread of a highly tra…",
@@ -81,10 +63,7 @@
       "content": "(CNN)North Korea's first-reported Covid-19 outbreak is the \"greatest turmoil\" to befall the country since its founding more than 70 years ago, according to its leader Kim Jong Un, as the isolated and… [+8745 chars]"
     },
     {
-      "source": {
-        "id": "associated-press",
-        "name": "Associated Press"
-      },
+      "source": { "id": "associated-press", "name": "Associated Press" },
       "author": "Steve Peoples",
       "title": "'Reprehensible': Oz condemns GOP opponent's tweet on Islam - The Associated Press - en Español",
       "description": "CARLISLE, Pa. (AP) — Republican Senate hopeful Mehmet Oz  is stepping up his criticism of far-right candidates in Pennsylvania who are gaining traction ahead of Tuesday's primary election.",
@@ -94,10 +73,7 @@
       "content": "CARLISLE, Pa. (AP) Republican Senate hopeful Mehmet Oz is stepping up his criticism of far-right candidates in Pennsylvania who are gaining traction ahead of Tuesdays primary election.\r\nAfter spendin… [+3155 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
+      "source": { "id": null, "name": "YouTube" },
       "author": null,
       "title": "Jan Blachowicz Octagon Interview | UFC Vegas 54 - UFC - Ultimate Fighting Championship",
       "description": "Former UFC light heavyweight champion Jan Blachowicz found success in the Octagon Saturday at UFC Vegas 54, earning a third-round knockout victory over Aleks...",
@@ -107,10 +83,7 @@
       "content": null
     },
     {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
+      "source": { "id": null, "name": "CBS Sports" },
       "author": "Brent Brookhouse",
       "title": "Jermell Charlo vs. Brian Castano 2 fight results, highlights: Charlo becomes undisputed champ with vicious KO - CBS Sports",
       "description": "Charlo and Castano delivered the goods as the two brawled for nine rounds before the unified champ added a fourth title to his collection",
@@ -120,10 +93,7 @@
       "content": "The first fight between Jermell Charlo and Brian Castano was a thriller with an inconclusive result as the four-belt junior middleweight unification ended in a split draw. The two rematched on Saturd… [+3619 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Daily Beast"
-      },
+      "source": { "id": null, "name": "Daily Beast" },
       "author": "Matt Wilstein",
       "title": "'Full Nightmare': SNL Takes on Johnny Depp-Amber Heard Trial - The Daily Beast",
       "description": "“Saturday Night Live” opened its show this week with “live” coverage of the celebrity trial that is consuming America.",
@@ -133,10 +103,7 @@
       "content": "Saturday Night Live took a break from politics this week to instead bring viewers live coverage of the Johnny Depp vs. Amber Heard cuckoo trial. \r\nI know its not the most pertinent story of the momen… [+1321 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "lakingsinsider.com"
-      },
+      "source": { "id": null, "name": "lakingsinsider.com" },
       "author": null,
       "title": "Game Thread – Kings @ Oilers, Round 1, Game 7 - LA Kings Insider",
       "description": "Los Angeles Kings 0, Edmonton Oilers 2 FINAL Game Preview WATCH: Bally Sports West LISTEN: LA Kings Audio Network SOG: LAK – 27 EDM – 42 PP: LAK – 0/0 EDM – 0/1 First Period No Scoring Second Period 1. EDM – Cody Ceci (1) – (Connor McDavid) – 13:15 Third Peri…",
@@ -159,10 +126,7 @@
       "content": "KYIV, UkraineUkraine began a counteroffensive toward the eastern city of Izyum aimed at disrupting Russian supply lines into the Donbas region, officials said, as Ukrainian forces continued clearing … [+581 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Hollywood Life"
-      },
+      "source": { "id": null, "name": "Hollywood Life" },
       "author": "Cassie Gill",
       "title": "Selena Gomez Declares She’s ‘Single’ & ‘Manifesting Love’: ‘Heard SNL Is A Place To Find Romance’ - HollywoodLife",
       "description": "Selena Gomez made her 'Saturday Night Live' debut on May 14, hosting during its 47th season. During her opening monologue, she revealed she's single and 'looking for my soulmate'!",
@@ -172,10 +136,7 @@
       "content": "View galleryImage Credit: NBC\r\nSelena Gomez, 29, took to the Saturday Night Live stage for the first time on May 14. The Same Old Love singer declared that she is, in fact, single in her opening mono… [+2984 chars]"
     },
     {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
+      "source": { "id": "cnn", "name": "CNN" },
       "author": "Ivana Kottasová and Rob Picheta, CNN",
       "title": "Ukraine wins Eurovision Song Contest in wave of goodwill following invasion by Russia - CNN",
       "description": "Ukraine's folk-rap group Kalush Orchestra captured the imagination of fans across the continent.",
@@ -185,10 +146,7 @@
       "content": "Kyiv, Ukraine (CNN)Ukraine's folk-rap group Kalush Orchestra has won this year's Eurovision Song Contest, surfing a wave of goodwill from European nations to clinch the country's third win at the gli… [+4082 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "New York Post"
-      },
+      "source": { "id": null, "name": "New York Post" },
       "author": "Eileen AJ Connelly",
       "title": "Female jail guard suspected of helping teens escape Louisiana detention center - New York Post ",
       "description": "Video surveillance captured a security guard driving three teens who were serving time for felonies from the Ware Youth Detention Center in Coushatta, Louisiana, Saturday.",
@@ -198,10 +156,7 @@
       "content": "A Louisiana security officer is suspected of helping three teen inmates escape from a youth detention center Saturday.\r\nThe escape comes two weeks after a jail boss in neighboring Alabama helped a co… [+2029 chars]"
     },
     {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
       "author": "David L. Stern, William Branigin, Timothy Bella",
       "title": "Mitch McConnell leads Senate GOP delegation in surprise visit Ukraine, meets President Zelensky - The Washington Post",
       "description": "Zelensky expressed hope that the Senate would quickly approve a nearly $40 billion package of additional funding for Ukraine after Sen. Rand Paul (R-Ky.), who was not on the trip, blocked the vote until next week.",
@@ -211,10 +166,7 @@
       "content": "Placeholder while article actions load\r\nUkrainian President Volodymyr Zelensky met Saturday with a U.S. Senate delegation led by Minority Leader Mitch McConnell (R-Ky.) in Kyiv, calling the visit a p… [+5279 chars]"
     },
     {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
       "author": null,
       "title": "Whereabouts of Terra's Bitcoin Reserve a Mystery After Transfers - Bloomberg",
       "description": null,
@@ -224,10 +176,7 @@
       "content": "To continue, please click the box below to let us know you're not a robot."
     },
     {
-      "source": {
-        "id": null,
-        "name": "New York Times"
-      },
+      "source": { "id": null, "name": "New York Times" },
       "author": "Adam Liptak",
       "title": "Justice Thomas Says Leaked Opinion Destroyed Trust at Supreme Court - The New York Times",
       "description": "In remarks at a conference in Dallas, he also denounced the recent protests at justices’ homes and said conservatives would not adopt such tactics.",
@@ -237,10 +186,7 @@
       "content": "Justice Thomas said the left had adopted tactics that conservatives would not employ.\r\nYou would never visit Supreme Court justices houses when things didnt go our way, he said. We didnt throw temper… [+1398 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "NBC 6 South Florida"
-      },
+      "source": { "id": null, "name": "NBC 6 South Florida" },
       "author": "NBC 6",
       "title": "1 Dead, 5 Hurt After Small Plane Crashes on Miami Bridge, Hits SUV and Catches Fire - NBC 6 South Florida",
       "description": "One person was killed and five others were injured when a small plane crash landed on a bridge in Miami Saturday afternoon, hitting an SUV and bursting into…",
@@ -250,10 +196,7 @@
       "content": "One person was killed and five others were injured when a small plane crash-landed on a bridge in Miami Saturday afternoon, hitting an SUV and bursting into flames.\r\nThe plane went down shortly befor… [+3463 chars]"
     },
     {
-      "source": {
-        "id": null,
-        "name": "Deadline"
-      },
+      "source": { "id": null, "name": "Deadline" },
       "author": "Matt Grobar",
       "title": "Britney Spears Says She’s Suffered Miscarriage: “We Lost Our Miracle Baby” - Deadline",
       "description": "Britney Spears has lost her first child with fiancé Sam Asghari. The pop star broke the news of her miscarriage in a statement posted to her Instagram feed on Sunday. “It is with our deepest sadness we have to announce that we lost our miracle baby early in t…",
