@@ -276,26 +276,24 @@ export class News extends Component {
     }
   }
   render() {
-      let {title, description, imageUrl} = this.props;
-    return (
-      <div className="container my-3">
+    return(
+        <div className="container my-3">
           <h2>XamNewz - Top Headlines</h2>
-        <div className="row">
-          <div className="col-md-4">
-            <NewsItem title="myTitle" description="mydesc" imageUrl = "https://www.reuters.com/resizer/uJ5mTUU8wwRYogVmsH0lQkh7tyE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UUOP4DBZSFMHBGNPEHCUYYEOCM.jpg" />
+          <div className="row">
+            {this.state.articles.map ( (element)=>{
+              return <div className = "col-md-4" key={element.url}>
+                <NewsItem title={element.title.slice(0,45)} description={element.description} imageUrl={element.urlToImage} newsUrl={element.url}/>
+              </div>
+            })}
           </div>
-          <div className="col-md-4">
-            <NewsItem title="myTitle" description="mydesc"/>
-          </div>
-          <div className="col-md-4">
-            <NewsItem title="myTitle" description="mydesc"/>
-            </div>
-          </div>
-
-      </div>
-
+        </div>
     )
   }
 }
+
+
+
+
+
 
 export default News
